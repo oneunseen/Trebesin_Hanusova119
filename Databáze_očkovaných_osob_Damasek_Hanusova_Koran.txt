@@ -1,0 +1,69 @@
+\documentclass[12pt,a4paper,notitlepage]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+\begin{document}
+
+\title{Očkování populace Covid-19}
+\author{ "Oliver Damašek, Anna Eva Hanušová, Jakub Kořan" }
+\date{04. 11. 2021}
+\maketitle
+
+\begin{abstract}
+Tento dokument byl vypracovaný společně se všemi členy týmu a ověřuje základní znalosti \LaTeX{}, databází a projektového řízení.
+
+Tým pracoval samostatně a využíval všechny dostupné materiály na Moodle nebo internetu. Veškeré licenční a právní náležitosti jsou upraveny v tomto dokumentu.
+
+Těm, který není tento dokument určen nemají žádné právo na využití obsahu tohoto dokumentu.
+
+Veškerá data osob a předmětů jsou smyšlená a nezakládají se na skutečnosti.
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+
+\section{Popis databáze}
+Databáze obsahuje citlivá data o osobách a jejich očkování. Zároveň v tabulkách je definice skupin, jímž je očkování zpřístupněno.
+
+Databáze je vytvořena na jazyce MySQL a využívá veškeré technologické vlastnosti této DB.
+\newpage
+\section{Licenční informace a HW požadavky}
+\subsection{Licence}
+Microsoft Edge - © 2021 Microsoft Corporation. Všechna práva vyhrazena. \newline
+
+The LaTeX project public license is a free software license \newline
+ 
+
+ Overleaf - Overleaf is free to use; you can create, edit and share your projects with a quick sign-up and nothing to install. Our free account includes unlimited projects, private sharing with one named collaborator per project, unlimited sharing via Link Sharing, and many other core features. \newline
+ 
+ Discord - MIT License
+Copyright (c) 2014-present Sebastian McKenzie and other contributors
+ 
+\subsection{Hardware}
+\subsection{Software}
+Overleaf, Microsoft Edge, Latex, Discord
+\newpage
+\section{Enumerizace hodnot}
+\subsection{Normované enumerizace}
+\subsection{Custom enumerizace}
+\newpage
+\section{Databázová struktura}
+\subsection{ER diagram}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+
+
+\end{document}
